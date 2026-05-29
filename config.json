@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildender",
+        "uuid": 10671310,
+        "checksum": "1tgxjp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
